@@ -1,0 +1,1 @@
+This is a project to implement a simple Instant Messaging application running on a local client using Redis as the server backend requirement.
